@@ -1,0 +1,9 @@
+# Sophia Meadows
+
+> Sophia Meadows — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/sophiameadows/
+
+## Pages
+
+- [Sophia Meadows](https://singaporenewproperty.github.io/sophiameadows/): Sophia Meadows property information.
